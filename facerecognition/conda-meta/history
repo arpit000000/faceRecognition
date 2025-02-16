@@ -1,0 +1,36 @@
+==> 2025-02-16 11:51:47 <==
+# cmd: C:\Users\tarpi\anaconda3\Scripts\conda-script.py create -n facerecognition python==3.6.9
+# conda version: 24.7.1
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/win-64::certifi-2021.5.30-py36haa95532_0
++defaults/win-64::pip-21.2.2-py36haa95532_0
++defaults/win-64::python-3.6.9-h5500b2f_0
++defaults/win-64::setuptools-58.0.4-py36haa95532_0
++defaults/win-64::sqlite-3.45.3-h2bbff1b_0
++defaults/win-64::vc-14.42-haa95532_4
++defaults/win-64::vs2015_runtime-14.42.34433-he0abc0d_4
++defaults/win-64::wincertstore-0.2-py36h7fe50ca_0
+# update specs: ['python==3.6.9']
+==> 2025-02-16 12:21:49 <==
+# cmd: C:\Users\tarpi\anaconda3\Scripts\conda-script.py install -c conda-forge dlib
+# conda version: 24.7.1
+-defaults/win-64::certifi-2021.5.30-py36haa95532_0
++conda-forge/win-64::certifi-2021.5.30-py36ha15d459_0
++conda-forge/win-64::dlib-19.22.0-py36h9f2b841_0
++conda-forge/win-64::intel-openmp-2024.2.1-h57928b3_1083
++conda-forge/win-64::jpeg-9e-hcfcfb64_3
++conda-forge/win-64::libblas-3.9.0-29_h576b46c_mkl
++conda-forge/win-64::libcblas-3.9.0-29_h7ad3364_mkl
++conda-forge/win-64::libhwloc-2.9.1-h51c2c0f_0
++conda-forge/win-64::libiconv-1.17-h8ffe710_0
++conda-forge/win-64::liblapack-3.9.0-29_hacfb0e4_mkl
++conda-forge/win-64::libpng-1.6.39-h19919ed_0
++conda-forge/win-64::libxml2-2.10.4-hc3477c8_0
++conda-forge/win-64::libzlib-1.2.13-hcfcfb64_4
++conda-forge/win-64::mkl-2024.2.2-h66d3029_15
++conda-forge/win-64::numpy-1.19.5-py36h4b40d73_2
++conda-forge/win-64::pthreads-win32-2.9.1-hfa6e2cd_3
++conda-forge/win-64::python_abi-3.6-2_cp36m
++conda-forge/win-64::tbb-2021.9.0-h91493d7_0
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_1
+# update specs: ['dlib']

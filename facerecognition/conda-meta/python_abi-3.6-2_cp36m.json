@@ -1,0 +1,35 @@
+{
+  "build": "2_cp36m",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "pypy <0a0"
+  ],
+  "depends": [
+    "python 3.6.*"
+  ],
+  "extracted_package_dir": "C:\\Users\\tarpi\\anaconda3\\pkgs\\python_abi-3.6-2_cp36m",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "python_abi-3.6-2_cp36m.tar.bz2",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\tarpi\\anaconda3\\pkgs\\python_abi-3.6-2_cp36m",
+    "type": 1
+  },
+  "md5": "7d5091713ab031f827e4d3653b24fb01",
+  "name": "python_abi",
+  "package_tarball_full_path": "C:\\Users\\tarpi\\anaconda3\\pkgs\\python_abi-3.6-2_cp36m.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "232996686dfdc9c80f34420caa4c35bf0343a8aa1101a81107aad662a3787b16",
+  "size": 4516,
+  "subdir": "win-64",
+  "timestamp": 1624472388000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/python_abi-3.6-2_cp36m.tar.bz2",
+  "version": "3.6"
+}

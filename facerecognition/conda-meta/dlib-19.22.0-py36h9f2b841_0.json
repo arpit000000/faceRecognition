@@ -1,0 +1,120 @@
+{
+  "build": "py36h9f2b841_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "jpeg >=9d,<10a",
+    "libpng >=1.6.37,<1.7.0a0",
+    "numpy >=1.17.5,<2.0a0",
+    "python >=3.6,<3.7.0a0",
+    "python_abi 3.6.* *_cp36m",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "extracted_package_dir": "C:\\Users\\tarpi\\anaconda3\\pkgs\\dlib-19.22.0-py36h9f2b841_0",
+  "files": [
+    "Lib/site-packages/_dlib_pybind11.cp36-win_amd64.pyd",
+    "Lib/site-packages/dlib-19.22.0.dist-info/INSTALLER",
+    "Lib/site-packages/dlib-19.22.0.dist-info/METADATA",
+    "Lib/site-packages/dlib-19.22.0.dist-info/RECORD",
+    "Lib/site-packages/dlib-19.22.0.dist-info/REQUESTED",
+    "Lib/site-packages/dlib-19.22.0.dist-info/WHEEL",
+    "Lib/site-packages/dlib-19.22.0.dist-info/direct_url.json",
+    "Lib/site-packages/dlib-19.22.0.dist-info/top_level.txt",
+    "Lib/site-packages/dlib/__init__.py",
+    "Lib/site-packages/dlib/__pycache__/__init__.cpython-36.pyc",
+    ".nonadmin"
+  ],
+  "fn": "dlib-19.22.0-py36h9f2b841_0.tar.bz2",
+  "license": "BSL-1.0",
+  "link": {
+    "source": "C:\\Users\\tarpi\\anaconda3\\pkgs\\dlib-19.22.0-py36h9f2b841_0",
+    "type": 1
+  },
+  "md5": "4a6b749cf704e23388a8d9969eb44d63",
+  "name": "dlib",
+  "package_tarball_full_path": "C:\\Users\\tarpi\\anaconda3\\pkgs\\dlib-19.22.0-py36h9f2b841_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/_dlib_pybind11.cp36-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "7696fd7a1e98dc6b167e0e841e9fd3bdcefdad33b6f9704e8621da05a995a008",
+        "sha256_in_prefix": "7696fd7a1e98dc6b167e0e841e9fd3bdcefdad33b6f9704e8621da05a995a008",
+        "size_in_bytes": 8802816
+      },
+      {
+        "_path": "Lib/site-packages/dlib-19.22.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/dlib-19.22.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9c921c5d6626c294f4e9a938b1d215d883b03d95e0020e3c48af9935831acb7e",
+        "sha256_in_prefix": "9c921c5d6626c294f4e9a938b1d215d883b03d95e0020e3c48af9935831acb7e",
+        "size_in_bytes": 1402
+      },
+      {
+        "_path": "Lib/site-packages/dlib-19.22.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "bc13233e3ecbf76284a2577426c3a1c85d4f626fe37cfa2bd0a881556bdbc4c3",
+        "sha256_in_prefix": "bc13233e3ecbf76284a2577426c3a1c85d4f626fe37cfa2bd0a881556bdbc4c3",
+        "size_in_bytes": 778
+      },
+      {
+        "_path": "Lib/site-packages/dlib-19.22.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/dlib-19.22.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7a9b9cac2db2c984f2b0308ccd7bb3f1e18c4cc2abcb345f34ebcc19db256e37",
+        "sha256_in_prefix": "7a9b9cac2db2c984f2b0308ccd7bb3f1e18c4cc2abcb345f34ebcc19db256e37",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/dlib-19.22.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "86cfd7d0ffd16d41145be3e2e69a63a9b9bf1e6262f0087630f0679e29342faa",
+        "sha256_in_prefix": "86cfd7d0ffd16d41145be3e2e69a63a9b9bf1e6262f0087630f0679e29342faa",
+        "size_in_bytes": 65
+      },
+      {
+        "_path": "Lib/site-packages/dlib-19.22.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6253d314615256f2f3f35a7a1d80cdab14d4af759ee8d0883a88a0be60449407",
+        "sha256_in_prefix": "6253d314615256f2f3f35a7a1d80cdab14d4af759ee8d0883a88a0be60449407",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "Lib/site-packages/dlib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d33b0e2f00e0472ede10026f7c0c11f513b3f106fbf3902235ed10962b06e538",
+        "sha256_in_prefix": "d33b0e2f00e0472ede10026f7c0c11f513b3f106fbf3902235ed10962b06e538",
+        "size_in_bytes": 777
+      },
+      {
+        "_path": "Lib/site-packages/dlib/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "c8f7da9003e249a2cc29f127bd54acf173d8bc9160e7739fc1077181a58f417d",
+        "sha256_in_prefix": "c8f7da9003e249a2cc29f127bd54acf173d8bc9160e7739fc1077181a58f417d",
+        "size_in_bytes": 796
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "dlib",
+  "sha256": "00448746274c794bcbbe22312f98094a80138c6cebdc82769de6b86cfed7042a",
+  "size": 3700655,
+  "subdir": "win-64",
+  "timestamp": 1617442995000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/dlib-19.22.0-py36h9f2b841_0.tar.bz2",
+  "version": "19.22.0"
+}
